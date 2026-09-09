@@ -115,6 +115,3 @@ Then install the dependencies:
 pip install -r requirements.txt
 ```
 
-## Future Improvements
-
-Future improvements could include testing additional machine learning models, performing more extensive hyperparameter tuning, evaluating additional classification metrics, and testing the models on larger datasets.
