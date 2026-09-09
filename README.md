@@ -107,12 +107,6 @@ Then open the Jupyter Notebook:
 jupyter notebook student_performance_analysis.ipynb
 ```
 
-# Dataset
-
-The dataset used in this project was provided as part of a university course and is not included in this repository.
-
-To run the notebook, place the required `train.csv` and `test.csv` files in this directory.
-
 ## Future Improvements
 
 Future improvements could include testing additional machine learning models, performing more extensive hyperparameter tuning, evaluating additional classification metrics, and testing the models on larger datasets.
