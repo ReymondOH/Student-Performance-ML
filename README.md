@@ -104,7 +104,7 @@ analysis, model results, and visualizations to be reviewed without access
 to the original dataset.
 
 If you have access to the dataset, place the following files inside the
-`data/` directory:
+directory:
 
 - `train.csv`
 - `test.csv`
